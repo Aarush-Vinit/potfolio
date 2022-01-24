@@ -1,0 +1,9 @@
+ul li{
+    display: inline-block;
+    text-decoration: none;
+    color: white;
+    padding: 5px 20px;
+    border: 1px solid white;
+    margin-right: 15px;
+    margin-bottom: 300px;
+}
